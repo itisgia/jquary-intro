@@ -1,0 +1,21 @@
+
+.box {
+	width: 300px;
+	height: 300px;
+
+
+}
+
+.green { 
+	background-color: #4286f4;
+}
+
+.red {
+	background-color: #545c68;
+}
+
+.wider {
+
+	width: 500px;
+	height: 500px;
+}
